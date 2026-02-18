@@ -1,4 +1,4 @@
-# Assignment 1
+# Assignment 1 - VPC & Networking
 
 ## 1) Created my custom VPC
 <img width="1211" height="437" alt="Screenshot 2026-02-17 at 11 41 40" src="https://github.com/user-attachments/assets/f7a96b4c-b7ae-46fa-85d1-46ac41e53dc8" />
@@ -42,4 +42,5 @@
 <img width="915" height="482" alt="Screenshot 2026-02-17 at 12 08 53" src="https://github.com/user-attachments/assets/ffca3b73-516f-4d06-b4c0-c78bfbf329f0" />
 
 <img width="915" height="675" alt="Screenshot 2026-02-17 at 12 06 54" src="https://github.com/user-attachments/assets/c0393d2b-ca84-4fe9-a13d-02366efb0cb0" />
+=======
 
