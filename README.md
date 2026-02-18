@@ -13,5 +13,3 @@
 3. Route Tables (Public + Private)
 4. Public EC2 Instance (Public IP) + Private EC2 instance (No IP) 
 5. Security Groups (Public + Private)
-
-# AWS-Learning
